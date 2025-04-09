@@ -148,3 +148,4 @@ Feel free to open an [issue](https://github.com/san-ghun/astro-pico/issues/) if 
 
 MIT, 
 Copyright © 2023-present
+
